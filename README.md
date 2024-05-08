@@ -1,1 +1,1 @@
-SQL queries on postgres databaseS.
+SQL queries on postgres databases.
