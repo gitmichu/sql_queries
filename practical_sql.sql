@@ -82,6 +82,6 @@ SELECT company,
 FROM widget_companies
 ORDER BY widget_output DESC;
 
-
+SELECT
 
 
